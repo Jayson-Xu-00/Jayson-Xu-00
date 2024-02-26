@@ -1,5 +1,6 @@
-### Hi there 👋
+### 🧑🏻‍💻 Data Analyst / Business Enthusiast
 
+- 🔭 I’m currently looking for full-time role in business/data analytics
 <!--
 **Jayson-Xu-00/Jayson-Xu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
