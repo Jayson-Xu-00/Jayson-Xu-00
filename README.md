@@ -1,10 +1,14 @@
 ### 🧑🏻‍💻 Data Analyst / Business Enthusiast
 
 - 🔭 I’m currently looking for a full-time role in business/data analytics
+- ⚡ Fun fact: 3+ years of doing Wing Chun
 
 📚 Education
 - MS in Business Analytics, Emory Goizueta Business School, 2023 - 2024
-- BS in Business Analytics and Information Technology (BAIT), minor in Music Technology, Rutgers Business School, 2019 - 2023
+- BS in Business Analytics and Information Technology (BAIT), Rutgers Business School, 2019 - 2023
+
+🌱 Hobbies
+- Wing Chun, Workout, Cycling, Scuba Diving
 <!--
 **Jayson-Xu-00/Jayson-Xu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
