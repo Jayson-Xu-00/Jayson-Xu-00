@@ -1,7 +1,7 @@
 ### 🧑🏻‍💻 Data Analyst / Business Enthusiast
 
 - 🔭 I’m currently looking for a full-time role in business/data analytics
-- ⚡ Fun fact: 3+ years of doing Wing Chun
+- 🔨 Data Science: Python | SQL | R | AWS | GCP | Cloud Computing | Data Structure | Excel
 
 ### 📚 Education
 - MS in Business Analytics, Emory Goizueta Business School, 2023 - 2024
