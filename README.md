@@ -1,6 +1,6 @@
 ### 🧑🏻‍💻 Data Analyst / Business Enthusiast
 
-- 🔭 I’m currently looking for a full-time role in business/data analytics
+- 🔭 I’m currently looking for a full-time role in business/data analytics starting in May 2024
 - 🔨 Data Science: Python | SQL | R | AWS | GCP | Cloud Computing | Data Structure
 - 📊 Tools: Tableau | Excel
 
