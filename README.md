@@ -1,12 +1,12 @@
 ### 🧑🏻‍💻 Data Analyst / Business Enthusiast
 
 - 🔭 I’m currently looking for a full-time role in business/data analytics
-- 🔨 Data Science: SQL | Python | R | AWS | GCP | Cloud Computing | Data Structure
+- 🔨 Data Science: SQL | Python | R | AWS | GCP | Cloud Computing | Data Analytics | Data Visualization | Machine Learning
 - 📊 Tools: Tableau | Excel
 
 ### 📚 Education
 - MS in Business Analytics, Emory Goizueta Business School, 2023 - 2024
-- BS in Business Analytics and Information Technology (BAIT), Rutgers Business School, 2019 - 2023
+- BS in Business Analytics & Information Technology (BAIT), Rutgers Business School, 2019 - 2023
 
 ### 🌱 Hobbies
 - Wing Chun, Workout, Cycling, Scuba Diving
