@@ -9,7 +9,7 @@
 - BS in Business Analytics & Information Technology (BAIT), Rutgers Business School, 2019 - 2023
 
 ### 🌱 Hobbies
-- Wing Chun, Workout, Cycling, Scuba Diving
+- Wing Chun, Workout, Cycling, F1 Sim Racing
 <!--
 **Jayson-Xu-00/Jayson-Xu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
