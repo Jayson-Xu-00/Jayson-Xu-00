@@ -1,8 +1,8 @@
-### 🧑🏻‍💻 Data Analyst / Business Enthusiast
+### 🧑🏻‍💻 Data Scientist / Business Enthusiast
 
-- 🔭 I’m currently looking for a full-time role in business/data analytics
-- 🔨 Data Science: SQL | Python | R | AWS | GCP | Cloud Computing | Data Analytics | Data Visualization | Machine Learning
-- 📊 Tools: Tableau | Excel
+- 🔭 I’m currently a full-time data scientist
+- 🔨 Data Science: SQL | Python | AWS | GCP | Data Analytics | Data Visualization | Machine Learning
+- 📊 Tools: Tableau | SAS Enterprise Guide | Excel
 
 ### 📚 Education
 - MS in Business Analytics, Emory Goizueta Business School, 2023 - 2024
